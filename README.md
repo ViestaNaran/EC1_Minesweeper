@@ -3,3 +3,4 @@ MineSweeper project made for the first course in programming, Essential computin
 
 Creates minesweeper, complete with bombs flags and numbers to indicate amount of nearby bombs.
 
+code is in src/sample
